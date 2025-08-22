@@ -1,7 +1,7 @@
 /* Seletor de elementos */
 p{
     text-align: left;
-    color: red;
+    color: rgb(47, 12, 243);
 
 }
 
@@ -18,10 +18,21 @@ h1{
 
 /* Seletores de classe */
 .myclass{
-    border-style: ridge;
+    border: 0.2em ridge pink;
 }
 
 /* Junção de Seletores */
 li.myclass{
     font-size: xx-large;
 }
+
+.newclass{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+/* Using RGB */
+.teste-cores{
+    padding:2%;
+    background-color: rgba(187, 243, 92, 0.4);
+}
+
