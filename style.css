@@ -1,0 +1,27 @@
+/* Seletor de elementos */
+p{
+    text-align: left;
+    color: red;
+
+}
+
+h1{
+    color: navy;
+    text-align: center;
+}
+
+/* seletor de ID */
+#pg1{
+    text-align: center;
+    color: orange;
+}
+
+/* Seletores de classe */
+.myclass{
+    border-style: ridge;
+}
+
+/* Junção de Seletores */
+li.myclass{
+    font-size: xx-large;
+}
