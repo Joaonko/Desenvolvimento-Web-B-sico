@@ -1,0 +1,15 @@
+
+/* Crie trˆes par´agrafos com classes diferentes (.um, .dois, .tres) e aplique as
+seguintes cores via CSS: */
+.um{
+    color: red;
+}
+
+.dois{
+    color: blue;
+}
+
+.tres{
+    color: purple;
+}
+
