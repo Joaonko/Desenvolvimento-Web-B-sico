@@ -32,3 +32,17 @@ seguintes cores via CSS: */
 .mclovin{
     color: green;
 }
+
+.cool{
+    list-style-type: none;
+    text-align: center;
+    display: flex;
+    gap: 15px;
+    justify-content: flex-end;
+
+}
+
+li:hover{
+    color: red;
+}
+
